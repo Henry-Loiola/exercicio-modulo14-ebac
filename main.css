@@ -1,0 +1,54 @@
+body {
+    font-family: 'Bacasime Antique', serif;
+}
+
+.navbar {
+    background-color: #76613e;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #d9c57d;
+    color: #76613e;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-produtos .nav-link.active:hover {
+    color: #d9c57d;
+}
+
+.navbar-toggler {
+    background-color: #ad8d5d;
+}
+
+.section-title {
+    font-family: 'Oswald', sans-serif;
+}
+
+#sobre, #eventos {
+    background-color: #d9c57d;
+}
+
+.text-colored {
+    color: #76613e;
+}
+
+.nav-produtos .nav-link.active,
+#fale-conosco button {
+    background-color: #76613e;
+    color: #fff;
+}
+
+.nav-produtos .nav-link:hover {
+    color: #76613e
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
